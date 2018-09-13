@@ -1,5 +1,5 @@
 _repo: The-Man-Who-Was-Six_51295
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The Man Who Was 6
 contributor:
   illustrator:
@@ -7,6 +7,9 @@ contributor:
     alias: Ashman
     gutenberg_agent_id: '33729'
     url: http://www.gutenberg.org/2009/agents/33729
+covers:
+- cover_type: archival
+  image_path: 51295-h/images/cover.jpg
 creator:
   author:
     agent_name: Wallace, F. L. (Floyd L.)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26832
     wikipedia: http://en.wikipedia.org/wiki/F._L._Wallace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51295#The-Man-Who-Was-Six
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-02-24'
 gutenberg_type: Text
